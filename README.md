@@ -2,8 +2,8 @@
 
 - 👨‍🎓 I'm currently studying at KFU ITIS in my 2nd year
 - 🧑‍💻 I'm studying web development technologies
-- 🍎 I am already familiar with C/C++, C#, HTML, CSS, JS, ASP.NET Core, Entity Framework Core, PostgreSql, MS Sql Server 
-- 📚 Also I know libraries such as FluentValidation, AutoMapper, MediatR, IdentityServer4, 
+- 🍎 I am already familiar with C/C++, C#, HTML, CSS, JS/TS + React, ASP.NET Core, Entity Framework Core, PostgreSql, MS Sql Server, Redis
+- 📚 Also I know libraries such as FluentValidation, AutoMapper, MediatR, IdentityServer4, Microsoft.Identity 
 - 💪 I worked with OAUth2.0 and OIDC, CQRS+MediatR, CORS, Clean Architecture, DocumentFormat.OpenXml.Wordprocessing
 
 <br>
