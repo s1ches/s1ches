@@ -2,9 +2,9 @@
 
 - 👨‍🎓 I'm currently studying at KFU ITIS in my 2nd year
 - 🧑‍💻 I'm studying web development technologies
-- 🍎 I am already familiar with C/C++, C#, JS/TS + React, ASP.NET Core, Entity Framework Core, PostgreSql, MS Sql Server, Redis
+- 🍎 I am already familiar with C/C++, C#, JS/TS + React, NestJS, TypeORM, ASP.NET Core, Entity Framework Core, PostgreSql, MS Sql Server, Redis, Minio
 - 📚 Also I know libraries such as FluentValidation, AutoMapper, MediatR, Microsoft.Identity 
-- 💪 I worked with OAUth2.0, CQRS+MediatR, CORS, Clean Architecture, DocumentFormat.OpenXml.Wordprocessing
+- 💪 I worked with OAUth2.0, OIDC, CQRS+MediatR, Clean Architecture, DocumentFormat.OpenXml.Wordprocessing,
 
 <br>
 <div align="center">
