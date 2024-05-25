@@ -4,7 +4,7 @@
 - 🧑‍💻 I'm studying web development technologies
 - 🍎 I am already familiar with C/C++, C#, JS/TS + React, NestJS, TypeORM, ASP.NET Core, Entity Framework Core, PostgreSql, MS Sql Server, Redis, Minio, SignalR
 - 📚 Also I know libraries such as FluentValidation, AutoMapper, MediatR, Microsoft.Identity 
-- 💪 I worked with JWT, OAUth2.0, OIDC, CQRS+MediatR, Clean Architecture, DocumentFormat.OpenXml.Wordprocessing,
+- 💪 I worked with JWT, OAUth2.0, OIDC, CQRS+MediatR, Clean Architecture, DocumentFormat.OpenXml.Wordprocessing, gRPC, Confluent.Kafka
 
 <br>
 <div align="center">
